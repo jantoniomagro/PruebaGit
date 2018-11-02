@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/opt/SAPClients/SAPGUI7.40rev7/bin/guilogon
+Type=Application
+Icon=guilogon
+Name=SAP GUI 7.40 rev 7
+Categories=X-SAPClients;Office;
