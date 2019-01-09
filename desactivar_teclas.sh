@@ -6,3 +6,4 @@ xmodmap -e ‘keycode 75=’ #F9
 xmodmap -e ‘keycode 95=’ #F11
 xmodmap -e ‘keycode 37=’ #Ctrl
 xmodmap -e ‘keycode 64=’ #Alt
+xmodmap -e ‘keycode 133=’ #Windows
