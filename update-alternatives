@@ -1,3 +1,9 @@
+
+export JAVA_HOME= /usr/lib/jvm/java-8-openjdk-amd64/
+export  PATH="$PATH:$JAVA_HOME/bin"
+      
+----
+
 1.- Despliegue de la versión jre en los equipos.
 2.- Despliegue del cliente de sap.
 3.- Configuración de la variable JAVA_HOME y JAVA_JRE para que apunte a la versión jre desplegada.
