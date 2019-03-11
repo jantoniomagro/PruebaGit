@@ -1,3 +1,26 @@
+1.- Despliegue de la versión jre en los equipos.
+2.- Despliegue del cliente de sap.
+3.- Configuración de la variable JAVA_HOME y JAVA_JRE para que apunte a la versión jre desplegada.
+	Se configura en el fichero .bashrc del usuario logado.
+
+4.- La instalación se lanza con:
+
+
+java -jar ../../../PRES2/GUI/JAVA/PlatinGUI740
+
+Esta parte es la que tenemos que monitorizar. "Intentar" ver donde se copian los ficheros cuando se instala para poder crear
+un .deb y lanzar la instalación como receta.
+
+5.- Crear enlace en el escritorio al "ejecutable" de SAP.
+6.- Modificar los ficheros de configuración para que aparezcan los datos de conexión al abrir SAP.
+
+
+
+
+--------------------
+
+
+
 ln -s /usr/lib/jvm/jre1.8.0_172/ /usr/lib/jvm/java-1.8.0_172
 update-alternatives --install /usr/bin/java java /usr/lib/jvm/jre1.8.0_172/bin/java 3000
 
