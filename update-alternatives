@@ -1,2 +1,9 @@
 ln -s /usr/lib/jvm/jre1.8.0_172/ /usr/lib/jvm/java-1.8.0_172
 update-alternatives --install /usr/bin/java java /usr/lib/jvm/jre1.8.0_172/bin/java 3000
+
+
+3.- Despliegue del cliente de sap
+
+Programar script para lanzar java -jar /home/$USER/PRES2/GUI/JAVA/PlatinGUI740Linux_7.JAR
+
+Los ficheros se van a copiar en /home/$USER/SAPClients
