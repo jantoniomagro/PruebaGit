@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Landscape version="1" updated="2018-10-30T08:03:21Z" origin="file:~/.SAPGUI/SAPGUILandscape.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SAPUILandscape.xsd" generator="SAP GUI for Java 7.40 rev 7">
+  <Services>
+    <Service name="prueba_aula" expert="1" msid="" uuid="6a4f1cc5-3fb6-4a25-a227-791cc02b0c13" type="SAPGUI" server="10.239.213.136:3200" mode="1"/>
+  </Services>
+  <Workspaces default="acae8d06-e172-4fba-bf55-d127a0692c43">
+    <Workspace expanded="1" name="JavaGUI Services" uuid="acae8d06-e172-4fba-bf55-d127a0692c43" description="JavaGUI Services configuration">
+      <Item uuid="b42261fa-91a4-4cc9-a822-9cd55e5f5034" serviceid="6a4f1cc5-3fb6-4a25-a227-791cc02b0c13"/>
+    </Workspace>
+  </Workspaces>
+  <Messageservers/>
+  <Routers/>
+</Landscape>
