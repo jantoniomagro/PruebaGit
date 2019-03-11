@@ -1,0 +1,2 @@
+ln -s /usr/lib/jvm/jre1.8.0_172/ /usr/lib/jvm/java-1.8.0_172
+update-alternatives --install /usr/bin/java java /usr/lib/jvm/jre1.8.0_172/bin/java 3000
