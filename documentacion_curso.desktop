@@ -2,5 +2,5 @@
 Version=1.0
 Type=Link
 Name=documentacion curso
-URL=smb://10.239.218.161/temporal_curso_samba
+URL=smb://10.239.218.161/
 Icon=/usr/share/icons/gnome/48x48/actions/document-open.png
