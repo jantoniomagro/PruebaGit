@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=x11vnc_VNC
+Exece=/home/profesor/.config/autostart/sc_x11vnc.sh
+OnlyShowIn=GNOME;Unity;LXDE
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-Phase=Application
+X-GNOME-Autostart-Notify=false
+X-GNOME-AutoRestart=false
