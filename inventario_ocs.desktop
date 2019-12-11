@@ -1,1 +1,10 @@
-/usr/local/sbin/registro_ocs.sh
+[Desktop Entry]
+Type=Application
+Name=registro_ocs
+Exec=/usr/local/sbin/registro_ocs.sh
+OnlyShowIn=GNOME;Unity;LXDE
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-Phase=Application
+X-GNOME-Autostart-Notify=false
+X-GNOME-AutoRestart=false
