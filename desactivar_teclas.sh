@@ -8,4 +8,5 @@ xmodmap -e 'keycode 37=' #Ctrl
 xmodmap -e 'keycode 105=' #Ctrl
 xmodmap -e 'keycode 64=' #Alt
 xmodmap -e 'keycode 133=' #Windows
-# fin, prueba commit desde eclipse
+# fin
+# prueba commit desde eclipse
